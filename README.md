@@ -1,4 +1,4 @@
 # 快捷操作与指令
-*windows
-*书写md
+* windows
+* 书写md
 
