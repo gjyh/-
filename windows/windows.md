@@ -3,3 +3,4 @@
 
 搜索工具：library；everything；
 
+shift+鼠标右键 当前位置打开cmd
